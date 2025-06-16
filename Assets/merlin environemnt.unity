@@ -401,6 +401,177 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &8284458229036709438
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4863612429493465226, guid: 334902633ca15d24cb5ebea51146d88f, type: 3}
+      propertyPath: m_Name
+      value: jungle plant1 edit
+      objectReference: {fileID: 0}
+    - target: {fileID: 5203017738168150576, guid: 334902633ca15d24cb5ebea51146d88f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 141.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 5203017738168150576, guid: 334902633ca15d24cb5ebea51146d88f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.6336
+      objectReference: {fileID: 0}
+    - target: {fileID: 5203017738168150576, guid: 334902633ca15d24cb5ebea51146d88f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 187.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 5203017738168150576, guid: 334902633ca15d24cb5ebea51146d88f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5203017738168150576, guid: 334902633ca15d24cb5ebea51146d88f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000037748947
+      objectReference: {fileID: 0}
+    - target: {fileID: 5203017738168150576, guid: 334902633ca15d24cb5ebea51146d88f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5203017738168150576, guid: 334902633ca15d24cb5ebea51146d88f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5203017738168150576, guid: 334902633ca15d24cb5ebea51146d88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5203017738168150576, guid: 334902633ca15d24cb5ebea51146d88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5203017738168150576, guid: 334902633ca15d24cb5ebea51146d88f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 334902633ca15d24cb5ebea51146d88f, type: 3}
+--- !u!1001 &8378113041973245002
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8428792245626511882, guid: 1d8abcf36802301479b6420e31989f37, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 144.33
+      objectReference: {fileID: 0}
+    - target: {fileID: 8428792245626511882, guid: 1d8abcf36802301479b6420e31989f37, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.4896
+      objectReference: {fileID: 0}
+    - target: {fileID: 8428792245626511882, guid: 1d8abcf36802301479b6420e31989f37, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 185.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8428792245626511882, guid: 1d8abcf36802301479b6420e31989f37, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8428792245626511882, guid: 1d8abcf36802301479b6420e31989f37, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000037748947
+      objectReference: {fileID: 0}
+    - target: {fileID: 8428792245626511882, guid: 1d8abcf36802301479b6420e31989f37, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8428792245626511882, guid: 1d8abcf36802301479b6420e31989f37, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8428792245626511882, guid: 1d8abcf36802301479b6420e31989f37, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8428792245626511882, guid: 1d8abcf36802301479b6420e31989f37, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8428792245626511882, guid: 1d8abcf36802301479b6420e31989f37, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9201633933317568688, guid: 1d8abcf36802301479b6420e31989f37, type: 3}
+      propertyPath: m_Name
+      value: jungle plant2 edit
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1d8abcf36802301479b6420e31989f37, type: 3}
+--- !u!1001 &8429372377389297378
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5843993127050977423, guid: b54e66c066320ff47a2c06f6d4f6ab3f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 147.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 5843993127050977423, guid: b54e66c066320ff47a2c06f6d4f6ab3f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.5883
+      objectReference: {fileID: 0}
+    - target: {fileID: 5843993127050977423, guid: b54e66c066320ff47a2c06f6d4f6ab3f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 184.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 5843993127050977423, guid: b54e66c066320ff47a2c06f6d4f6ab3f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5843993127050977423, guid: b54e66c066320ff47a2c06f6d4f6ab3f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000037748947
+      objectReference: {fileID: 0}
+    - target: {fileID: 5843993127050977423, guid: b54e66c066320ff47a2c06f6d4f6ab3f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5843993127050977423, guid: b54e66c066320ff47a2c06f6d4f6ab3f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5843993127050977423, guid: b54e66c066320ff47a2c06f6d4f6ab3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5843993127050977423, guid: b54e66c066320ff47a2c06f6d4f6ab3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5843993127050977423, guid: b54e66c066320ff47a2c06f6d4f6ab3f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6508220868538333749, guid: b54e66c066320ff47a2c06f6d4f6ab3f, type: 3}
+      propertyPath: m_Name
+      value: 'jungle plant3 '
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b54e66c066320ff47a2c06f6d4f6ab3f, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -408,3 +579,6 @@ SceneRoots:
   - {fileID: 50385331}
   - {fileID: 267280148}
   - {fileID: 309219280}
+  - {fileID: 8284458229036709438}
+  - {fileID: 8378113041973245002}
+  - {fileID: 8429372377389297378}
